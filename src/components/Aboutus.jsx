@@ -9,6 +9,9 @@ const AboutUs = () => {
       <p>
         Welcome to our E-Commerce platform, your one-stop shop for the latest and greatest in electronics!
         We specialize in high-quality products, including computers, mobiles, laptops, and accessories.
+
+
+        Hello Tulasi
       </p>
 
       <div className="about-grid">
